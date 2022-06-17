@@ -1,0 +1,5 @@
+C:\GB\GB_C#\C-sharp-HW4\C-sharp-HW4\C# HW2\obj\Debug\net6.0\C# HW2.csproj.AssemblyReference.cache
+C:\GB\GB_C#\C-sharp-HW4\C-sharp-HW4\C# HW2\obj\Debug\net6.0\C# HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\GB_C#\C-sharp-HW4\C-sharp-HW4\C# HW2\obj\Debug\net6.0\C# HW2.AssemblyInfoInputs.cache
+C:\GB\GB_C#\C-sharp-HW4\C-sharp-HW4\C# HW2\obj\Debug\net6.0\C# HW2.AssemblyInfo.cs
+C:\GB\GB_C#\C-sharp-HW4\C-sharp-HW4\C# HW2\obj\Debug\net6.0\C# HW2.csproj.CoreCompileInputs.cache
