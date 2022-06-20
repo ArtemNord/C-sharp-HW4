@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GB\\GB_C#\\C-sharp-HW4\\C-sharp-HW4\\C# HW2\\C# HW2.csproj": {}
+    "D:\\GB\\GB_C#\\C#_HW\\C-sharp-HW4\\C# HW2\\C# HW2.csproj": {}
   },
   "projects": {
-    "C:\\GB\\GB_C#\\C-sharp-HW4\\C-sharp-HW4\\C# HW2\\C# HW2.csproj": {
+    "D:\\GB\\GB_C#\\C#_HW\\C-sharp-HW4\\C# HW2\\C# HW2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GB\\GB_C#\\C-sharp-HW4\\C-sharp-HW4\\C# HW2\\C# HW2.csproj",
+        "projectUniqueName": "D:\\GB\\GB_C#\\C#_HW\\C-sharp-HW4\\C# HW2\\C# HW2.csproj",
         "projectName": "C# HW2",
-        "projectPath": "C:\\GB\\GB_C#\\C-sharp-HW4\\C-sharp-HW4\\C# HW2\\C# HW2.csproj",
-        "packagesPath": "C:\\Users\\ATOM\\.nuget\\packages\\",
-        "outputPath": "C:\\GB\\GB_C#\\C-sharp-HW4\\C-sharp-HW4\\C# HW2\\obj\\",
+        "projectPath": "D:\\GB\\GB_C#\\C#_HW\\C-sharp-HW4\\C# HW2\\C# HW2.csproj",
+        "packagesPath": "C:\\Users\\mrnor\\.nuget\\packages\\",
+        "outputPath": "D:\\GB\\GB_C#\\C#_HW\\C-sharp-HW4\\C# HW2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ATOM\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mrnor\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
